@@ -1,0 +1,160 @@
+% PBN 2.1
+% EXPORT
+%Content-type: text/x-pbn; charset=ISO-8859-1
+%Creator: Bridge Solver version 1.30
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ.7.8765.AK6542 9... A76.AT852.AK3.Q9 2..."]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[DoubleDummyTricks "********************"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  0
+S  D  0
+S  C  0
+E NT  0
+E  S  0
+E  H  0
+E  D  0
+E  C  0
+W NT  0
+W  S  0
+W  H  0
+W  D  0
+W  C  0
+[OptimumScore ""]
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:.2.. K864.AQ.A97.AK74 .4.. A75.JT9.K8642.86"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[DoubleDummyTricks "********************"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  0
+S  D  0
+S  C  0
+E NT  0
+E  S  0
+E  H  0
+E  D  0
+E  C  0
+W NT  0
+W  S  0
+W  H  0
+W  D  0
+W  C  0
+[OptimumScore ""]
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ54.AKJ.AJT987. ... AT.9432.KQ65.J73 ..."]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[DoubleDummyTricks "********************"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  0
+S  D  0
+S  C  0
+E NT  0
+E  S  0
+E  H  0
+E  D  0
+E  C  0
+W NT  0
+W  S  0
+W  H  0
+W  D  0
+W  C  0
+[OptimumScore ""]
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:.3.. KJ5.T6.K84.KQJ73 .Q.. AT986.AJ2.73.A65"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[DoubleDummyTricks "********************"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  0
+N  S  0
+N  H  0
+N  D  0
+N  C  0
+S NT  0
+S  S  0
+S  H  0
+S  D  0
+S  C  0
+E NT  0
+E  S  0
+E  H  0
+E  D  0
+E  C  0
+W NT  0
+W  S  0
+W  H  0
+W  D  0
+W  C  0
+[OptimumScore ""]
+
