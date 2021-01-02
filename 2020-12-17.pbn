@@ -17,7 +17,7 @@
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -56,7 +56,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -95,7 +95,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -134,7 +134,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -173,7 +173,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -212,7 +212,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -251,7 +251,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -285,7 +285,7 @@ W  C  0
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:2.KQJT.AJ54.K732 KT8.A753.K86.Q96 3.98642.T732.854 AQJ97654..Q9.AJT"]
+[Deal "W:.K.. KT8.A753.K86.Q96 .2.. AQJ97654..Q9.AJT"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -329,7 +329,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
@@ -368,7 +368,7 @@ W  C  0
 [Declarer ""]
 [Contract ""]
 [Result ""]
-[DoubleDummyTricks "********************"]
+[DoubleDummyTricks "--------------------"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 N NT  0
 N  S  0
